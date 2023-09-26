@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grigor Grozdev.
 
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript at SoftUni.
 
 
 <!---
